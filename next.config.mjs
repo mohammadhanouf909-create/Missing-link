@@ -7,7 +7,7 @@ const nextConfig = {
   eslint: {
     // وهذا السطر يتخطى أخطاء الـ Linting لضمان سرعة الرفع
     ignoreDuringBuilds: true,
-  },
+  }, 
 };
 
 export default nextConfig;
